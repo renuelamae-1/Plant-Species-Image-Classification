@@ -1,175 +1,228 @@
-# Plant-Species-Image-Classification
+# 🌸 Plant Species Image Classification (Terrestrial Orchids)
 
-This project focuses on building a Plant Species Image Classification Model that identifies different species of terrestrial orchids using image data. The system uses deep learning techniques to analyze visual features such as petal structure, color patterns, leaf shape, and flower symmetry.
+## 📌 Project Overview
 
-The purpose of this model is to:
+This project focuses on building an image classification model using Google Teachable Machine to identify 20 different terrestrial orchid species. The goal is to train a machine learning model that can accurately classify orchid images based on their visual characteristics such as flowers, leaves, and structure.
 
-- Automatically classify terrestrial orchid species from images
+---
 
-- ssist in plant identification and botanical studies
+## 🌿 Plant Species
 
-- Support biodiversity research and conservation efforts
+### 1. Paphiopedilum (Slipper Orchids)
 
-- Demonstrate practical implementation of image classification using deep learning
+![Paphiopedilum](images/plants/1.jpg)
+Paphiopedilum are known for their unique slipper-shaped pouch and are popular ornamental orchids.
 
-## Below are the 20 terrestrial orchid species included in this project.
+### 2. Cypripedium (Lady’s Slipper Orchids)
 
-1️⃣ Paphiopedilum (Slipper Orchids)
+![Cypripedium](images/plants/2.jpg)
+Cypripedium orchids are terrestrial orchids with pouch-like flowers and are commonly found in temperate regions.
 
-Common Name: Slipper Orchid
+### 3. Bletilla striata (Chinese Ground Orchid)
 
-Scientific Name: Paphiopedilum
+![Bletilla striata](images/plants/3.jpg)
+A hardy terrestrial orchid known for its purple flowers and ease of cultivation.
 
-Description: Known for their distinctive pouch-shaped lip resembling a slipper. These orchids thrive in shaded terrestrial environments and are popular ornamental plants.
+### 4. Calanthe
 
-2️⃣ Cypripedium (Lady’s Slipper Orchids)
+![Calanthe](images/plants/4.jpg)
+Calanthe orchids produce multiple flowers and thrive in tropical and subtropical regions.
 
-Common Name: Lady’s Slipper Orchid
+### 5. Habenaria
 
-Scientific Name: Cypripedium
+![Habenaria](images/plants/5.jpg)
+Habenaria orchids often have intricate flower shapes and are widely distributed.
 
-Description: Cold-hardy terrestrial orchids characterized by a prominent slipper-like pouch. Common in temperate forests.
+### 6. Orchis
 
-3️⃣ Bletilla striata (Chinese Ground Orchid)
+![Orchis](images/plants/6.jpg)
+Orchis species are known for their colorful flowers and are commonly found in Europe and Asia.
 
-Common Name: Chinese Ground Orchid
+### 7. Dactylorhiza
 
-Scientific Name: Bletilla striata
+![Dactylorhiza](images/plants/7.jpg)
+These orchids are recognized for their spotted leaves and dense flower spikes.
 
-Description: A hardy terrestrial orchid with bright purple-pink flowers. Often grown in gardens due to its resilience.
+### 8. Eulophia
 
-4️⃣ Calanthe
+![Eulophia](images/plants/8.jpg)
+Eulophia orchids are tropical terrestrial orchids with tall flowering stems.
 
-Common Name: Calanthe Orchid
+### 9. Anacamptis
 
-Scientific Name: Calanthe
+![Anacamptis](images/plants/9.jpg)
+Anacamptis orchids are known for their vibrant pink and purple flowers.
 
-Description: Terrestrial orchids known for their elegant spikes of colorful flowers. Found in tropical and subtropical regions.
+### 10. Ophrys (Bee Orchids)
 
-5️⃣ Habenaria
+![Ophrys](images/plants/10.jpg)
+Ophrys orchids mimic insects in appearance to attract pollinators.
 
-Common Name: Rein Orchid
+### 11. Spiranthes (Ladies’ Tresses)
 
-Scientific Name: Habenaria
+![Spiranthes](images/plants/11.jpg)
+These orchids have spiral arrangements of small white flowers.
 
-Description: Recognized for their intricate and fringed flower petals. Typically grow in grasslands and wetlands.
+### 12. Goodyera (Jewel Orchids – Terrestrial Type)
 
-6️⃣ Orchis
+![Goodyera](images/plants/12.jpg)
+Goodyera orchids are valued for their patterned leaves and subtle flowers.
 
-Common Name: Orchis
+### 13. Epipactis
 
-Scientific Name: Orchis
+![Epipactis](images/plants/13.jpg)
+Epipactis orchids are adaptable and found in a wide range of habitats.
 
-Description: A genus of terrestrial orchids with dense flower spikes. Common in Europe and parts of Asia.
+### 14. Phaius tankervilleae
 
-7️⃣ Dactylorhiza
+![Phaius tankervilleae](images/plants/14.jpg)
+Also known as Nun’s Orchid, it produces large and showy flowers.
 
-Common Name: Marsh Orchid
+### 15. Spathoglottis
 
-Scientific Name: Dactylorhiza
+![Spathoglottis](images/plants/15.jpg)
+A common tropical terrestrial orchid often used in landscaping.
 
-Description: Known for spotted leaves and vibrant purple flowers. Found in moist meadows and marshlands.
+### 16. Chloraea
 
-8️⃣ Eulophia
+![Chloraea](images/plants/16.jpg)
+Chloraea orchids are native to South America and have striking greenish flowers.
 
-Common Name: Eulophia Orchid
+### 17. Ponerorchis
 
-Scientific Name: Eulophia
+![Ponerorchis](images/plants/17.jpg)
+Small terrestrial orchids commonly found in East Asia.
 
-Description: Terrestrial orchids often growing in savannas and grasslands. Some species have underground tubers.
+### 18. Cremastra
 
-9️⃣ Anacamptis
+![Cremastra](images/plants/18.jpg)
+These orchids grow in forested areas and produce elegant flowers.
 
-Common Name: Pyramidal Orchid
+### 19. Sobralia
 
-Scientific Name: Anacamptis
+![Sobralia](images/plants/19.jpg)
+Sobralia orchids resemble bamboo and produce large flowers.
 
-Description: Characterized by pyramid-shaped flower clusters and vibrant pink blooms.
+### 20. Galeandra
 
-🔟 Ophrys (Bee Orchids)
+![Galeandra](images/plants/20.jpg)
+Galeandra orchids can be terrestrial or epiphytic and have long floral spurs.
 
-Common Name: Bee Orchid
+---
 
-Scientific Name: Ophrys
+## ⚙️ Model Training Details
 
-Description: Famous for flowers that mimic the appearance of bees to attract pollinators.
+* **Platform:** Google Teachable Machine
+* **Project Type:** Image Classification
+* **Epochs:** 50
+* **Batch Size:** 16
+* **Learning Rate:** 0.001
+* **Images per Class:** 250
+* **Total Images:** 5,000+
 
-1️⃣1️⃣ Spiranthes (Ladies’ Tresses)
+---
 
-Common Name: Ladies’ Tresses
+## 📊 Model Evaluation
 
-Scientific Name: Spiranthes
+### Confusion Matrix
 
-Description: Small white flowers arranged in a spiral pattern along the stem.
+![Confusion Matrix](images/training/confusion_matrix.png)
 
-1️⃣2️⃣ Goodyera (Jewel Orchids – Terrestrial Type)
+### Accuracy per Class
 
-Common Name: Jewel Orchid
+![Accuracy per Class](images/training/accuracy_per_class.png)
 
-Scientific Name: Goodyera
+### Overall Accuracy
 
-Description: Known for decorative, patterned leaves and small white flowers.
+![Overall Accuracy](images/training/overall_accuracy.png)
 
-1️⃣3️⃣ Epipactis
+---
 
-Common Name: Helleborine
+## 🧪 Model Testing (Preview Results)
 
-Scientific Name: Epipactis
+### Test 1
 
-Description: Adaptable orchids that grow in forests and even urban areas.
+![Test 1](images/testing/test1.png)
 
-1️⃣4️⃣ Pecteilis
+### Test 2
 
-Common Name: White Egret Flower
+![Test 2](images/testing/test2.png)
 
-Scientific Name: Pecteilis radiata
+### Test 3
 
-Description: Features delicate white flowers shaped like flying birds.
+![Test 3](images/testing/test3.png)
 
-1️⃣5️⃣ Spathoglottis
+### Test 4
 
-Common Name: Ground Orchid
+![Test 4](images/testing/test4.png)
 
-Scientific Name: Spathoglottis
+### Test 5
 
-Description: Tropical terrestrial orchids with vibrant purple, yellow, or pink flowers.
+![Test 5](images/testing/test5.png)
 
-1️⃣6️⃣ Chloraea
+### Test 6
 
-Common Name: Chloraea Orchid
+![Test 6](images/testing/test6.png)
 
-Scientific Name: Chloraea
+### Test 7
 
-Description: Native to South America, known for greenish or white intricate blooms.
+![Test 7](images/testing/test7.png)
 
-1️⃣7️⃣ Ponerorchis
+### Test 8
 
-Common Name: Ponerorchis
+![Test 8](images/testing/test8.png)
 
-Scientific Name: Ponerorchis
+### Test 9
 
-Description: Small terrestrial orchids found in mountainous regions of Asia.
+![Test 9](images/testing/test9.png)
 
-1️⃣8️⃣ Cremastra
+### Test 10
 
-Common Name: Cremastra Orchid
+![Test 10](images/testing/test10.png)
 
-Scientific Name: Cremastra appendiculata
+---
 
-Description: Recognized by slender stems and nodding flowers.
+## 📦 Model Export
 
-1️⃣9️⃣ Sobralia
+The trained model was exported from Google Teachable Machine in TensorFlow format and uploaded to this repository.
 
-Common Name: Sobralia Orchid
+---
 
-Scientific Name: Sobralia
+## 📁 Repository Contents
 
-Description: Large terrestrial orchids with showy, short-lived flowers.
+* README.md
+* Model files (TensorFlow)
+* Dataset screenshots
+* Training screenshots
+* Evaluation screenshots
+* Testing screenshots
 
-2️⃣0️⃣ Galeandra
+---
 
-Common Name: Galeandra Orchid
+## ✍️ Reflection
 
-Scientific Name: Galeandra
+### 1. Effect of Number of Images per Class
 
-Description: Some species are terrestrial and produce striking tubular flowers.
+Increasing the number of images per class improved the model’s accuracy by allowing it to learn more variations of each plant.
+
+### 2. Misclassified Species
+
+Some species like Orchis and Dactylorhiza were misclassified due to similar flower structures and colors.
+
+### 3. Training Parameters Impact
+
+Higher epochs improved accuracy but risked overfitting, while batch size and learning rate helped stabilize training.
+
+### 4. Challenges Encountered
+
+Collecting diverse and non-duplicate images was difficult and time-consuming.
+
+### 5. Future Improvements
+
+Improving dataset quality, adding more distinct species, and increasing image diversity would enhance model performance.
+
+---
+
+## 🔗 Model Link
+
+[https://teachablemachine.withgoogle.com/models/zBVfxh0le/](https://teachablemachine.withgoogle.com/models/zBVfxh0le/)
