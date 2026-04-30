@@ -36,7 +36,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="3.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/3.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       A hardy terrestrial orchid known for its purple flowers and ease of cultivation.
@@ -48,7 +48,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="4.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/4.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid that produce multiple flowers and thrive in tropical and subtropical regions.
@@ -60,7 +60,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="5.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/5.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid that often have intricate flower shapes and are widely distributed.
@@ -72,7 +72,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="6.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/6.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       A species that are known for their colorful flowers and are commonly found in Europe and Asia.
@@ -84,7 +84,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="7.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/7.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid recognized for their spotted leaves and dense flower spikes.
@@ -96,7 +96,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="8.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/8.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       A tropical terrestrial orchids with tall flowering stems.
@@ -108,7 +108,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="9.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/9.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid known for their vibrant pink and purple flowers.
@@ -120,7 +120,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="10.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/10.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid that mimic insects in appearance to attract pollinators.
@@ -132,7 +132,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="11.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/11.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid that have spiral arrangements of small white flowers.
@@ -144,7 +144,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="12.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/12.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid that are valued for their patterned leaves and subtle flowers.
@@ -156,7 +156,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="13.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/13.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid that are adaptable and found in a wide range of habitats.
@@ -168,7 +168,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="14.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/14.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid Also known as Nun’s Orchid, it produces large and showy flowers.
@@ -180,7 +180,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="15.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/15.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       A common tropical terrestrial orchid often used in landscaping.
@@ -192,7 +192,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="16.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/16.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid that native to South America and have striking greenish flowers.
@@ -204,7 +204,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="17.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/17.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       A small terrestrial orchids commonly found in East Asia.
@@ -216,7 +216,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="18.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/18.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid that grows in forested areas and produce elegant flowers.
@@ -228,7 +228,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="19.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/19.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid that resembles bamboo and produce large flowers.
@@ -240,7 +240,7 @@ This project focuses on building an image classification model using Google Teac
  <table>
   <tr>
     <td>
-      <img src="20.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/20.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       An orchid that can be terrestrial or epiphytic and have long floral spurs.
