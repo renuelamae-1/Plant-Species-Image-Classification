@@ -266,15 +266,15 @@ This project focuses on building an image classification model using Google Teac
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/training/confusion_matrix.png)
+![Confusion Matrix](training/confusion.png)
 
 ### Accuracy per Class
 
-![Accuracy per Class](images/training/accuracy_per_class.png)
+![Accuracy per Class](training/accuracy.png)
 
 ### Overall Accuracy
 
-![Overall Accuracy](images/training/overall_accuracy.png)
+![Overall Accuracy](training/all.png)
 
 ---
 
