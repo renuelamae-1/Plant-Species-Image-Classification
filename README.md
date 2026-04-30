@@ -9,104 +9,244 @@ This project focuses on building an image classification model using Google Teac
 ## 🌿 Plant Species
 
 ### 1. Paphiopedilum (Slipper Orchids)
-
-![Paphiopedilum](images/plants/1.jpg)
-Paphiopedilum are known for their unique slipper-shaped pouch and are popular ornamental orchids.
+<table>
+  <tr>
+    <td>
+      <img src="1.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      Known for their unique slipper-shaped pouch and are popular ornamental orchids.
+    </td>
+  </tr>
+</table>
 
 ### 2. Cypripedium (Lady’s Slipper Orchids)
-
-![Cypripedium](images/plants/2.jpg)
-Cypripedium orchids are terrestrial orchids with pouch-like flowers and are commonly found in temperate regions.
+  <table>
+  <tr>
+    <td>
+      <img src="2.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      Terrestrial orchids with pouch-like flowers and are commonly found in temperate regions.
+    </td>
+  </tr>
+</table>
 
 ### 3. Bletilla striata (Chinese Ground Orchid)
-
-![Bletilla striata](images/plants/3.jpg)
-A hardy terrestrial orchid known for its purple flowers and ease of cultivation.
+ <table>
+  <tr>
+    <td>
+      <img src="3.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      A hardy terrestrial orchid known for its purple flowers and ease of cultivation.
+    </td>
+  </tr>
+</table>
 
 ### 4. Calanthe
-
-![Calanthe](images/plants/4.jpg)
-Calanthe orchids produce multiple flowers and thrive in tropical and subtropical regions.
+ <table>
+  <tr>
+    <td>
+      <img src="4.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid that produce multiple flowers and thrive in tropical and subtropical regions.
+    </td>
+  </tr>
+</table>
 
 ### 5. Habenaria
-
-![Habenaria](images/plants/5.jpg)
-Habenaria orchids often have intricate flower shapes and are widely distributed.
+ <table>
+  <tr>
+    <td>
+      <img src="5.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid that often have intricate flower shapes and are widely distributed.
+    </td>
+  </tr>
+</table>
 
 ### 6. Orchis
-
-![Orchis](images/plants/6.jpg)
-Orchis species are known for their colorful flowers and are commonly found in Europe and Asia.
+ <table>
+  <tr>
+    <td>
+      <img src="6.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      A species that are known for their colorful flowers and are commonly found in Europe and Asia.
+    </td>
+  </tr>
+</table>
 
 ### 7. Dactylorhiza
-
-![Dactylorhiza](images/plants/7.jpg)
-These orchids are recognized for their spotted leaves and dense flower spikes.
+ <table>
+  <tr>
+    <td>
+      <img src="7.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid recognized for their spotted leaves and dense flower spikes.
+    </td>
+  </tr>
+</table>
 
 ### 8. Eulophia
-
-![Eulophia](images/plants/8.jpg)
-Eulophia orchids are tropical terrestrial orchids with tall flowering stems.
+ <table>
+  <tr>
+    <td>
+      <img src="8.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      A tropical terrestrial orchids with tall flowering stems.
+    </td>
+  </tr>
+</table>
 
 ### 9. Anacamptis
-
-![Anacamptis](images/plants/9.jpg)
-Anacamptis orchids are known for their vibrant pink and purple flowers.
+ <table>
+  <tr>
+    <td>
+      <img src="9.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid known for their vibrant pink and purple flowers.
+    </td>
+  </tr>
+</table>
 
 ### 10. Ophrys (Bee Orchids)
-
-![Ophrys](images/plants/10.jpg)
-Ophrys orchids mimic insects in appearance to attract pollinators.
+ <table>
+  <tr>
+    <td>
+      <img src="10.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid that mimic insects in appearance to attract pollinators.
+    </td>
+  </tr>
+</table>
 
 ### 11. Spiranthes (Ladies’ Tresses)
-
-![Spiranthes](images/plants/11.jpg)
-These orchids have spiral arrangements of small white flowers.
+ <table>
+  <tr>
+    <td>
+      <img src="11.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid that have spiral arrangements of small white flowers.
+    </td>
+  </tr>
+</table>
 
 ### 12. Goodyera (Jewel Orchids – Terrestrial Type)
-
-![Goodyera](images/plants/12.jpg)
-Goodyera orchids are valued for their patterned leaves and subtle flowers.
+ <table>
+  <tr>
+    <td>
+      <img src="12.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid that are valued for their patterned leaves and subtle flowers.
+    </td>
+  </tr>
+</table>
 
 ### 13. Epipactis
-
-![Epipactis](images/plants/13.jpg)
-Epipactis orchids are adaptable and found in a wide range of habitats.
+ <table>
+  <tr>
+    <td>
+      <img src="13.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid that are adaptable and found in a wide range of habitats.
+    </td>
+  </tr>
+</table>
 
 ### 14. Phaius tankervilleae
-
-![Phaius tankervilleae](images/plants/14.jpg)
-Also known as Nun’s Orchid, it produces large and showy flowers.
+ <table>
+  <tr>
+    <td>
+      <img src="14.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid Also known as Nun’s Orchid, it produces large and showy flowers.
+    </td>
+  </tr>
+</table>
 
 ### 15. Spathoglottis
-
-![Spathoglottis](images/plants/15.jpg)
-A common tropical terrestrial orchid often used in landscaping.
+ <table>
+  <tr>
+    <td>
+      <img src="15.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      A common tropical terrestrial orchid often used in landscaping.
+    </td>
+  </tr>
+</table>
 
 ### 16. Chloraea
-
-![Chloraea](images/plants/16.jpg)
-Chloraea orchids are native to South America and have striking greenish flowers.
+ <table>
+  <tr>
+    <td>
+      <img src="16.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid that native to South America and have striking greenish flowers.
+    </td>
+  </tr>
+</table>
 
 ### 17. Ponerorchis
-
-![Ponerorchis](images/plants/17.jpg)
-Small terrestrial orchids commonly found in East Asia.
+ <table>
+  <tr>
+    <td>
+      <img src="17.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      A small terrestrial orchids commonly found in East Asia.
+    </td>
+  </tr>
+</table>
 
 ### 18. Cremastra
-
-![Cremastra](images/plants/18.jpg)
-These orchids grow in forested areas and produce elegant flowers.
+ <table>
+  <tr>
+    <td>
+      <img src="18.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid that grows in forested areas and produce elegant flowers.
+    </td>
+  </tr>
+</table>
 
 ### 19. Sobralia
-
-![Sobralia](images/plants/19.jpg)
-Sobralia orchids resemble bamboo and produce large flowers.
+ <table>
+  <tr>
+    <td>
+      <img src="19.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid that resembles bamboo and produce large flowers.
+    </td>
+  </tr>
+</table>
 
 ### 20. Galeandra
-
-![Galeandra](images/plants/20.jpg)
-Galeandra orchids can be terrestrial or epiphytic and have long floral spurs.
+ <table>
+  <tr>
+    <td>
+      <img src="20.jpg" width="220" style="border-radius: 15px;" />
+    </td>
+    <td>
+      An orchid that can be terrestrial or epiphytic and have long floral spurs.
+    </td>
+  </tr>
+</table>
 
 ---
 
