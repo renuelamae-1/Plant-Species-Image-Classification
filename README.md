@@ -282,43 +282,43 @@ This project focuses on building an image classification model using Google Teac
 
 ### Test 1
 
-![Test 1](images/testing/test1.png)
+![Test 1](testing/test1.png)
 
 ### Test 2
 
-![Test 2](images/testing/test2.png)
+![Test 2](testing/test2.png)
 
 ### Test 3
 
-![Test 3](images/testing/test3.png)
+![Test 3](testing/test3.png)
 
 ### Test 4
 
-![Test 4](images/testing/test4.png)
+![Test 4](testing/test4.png)
 
 ### Test 5
 
-![Test 5](images/testing/test5.png)
+![Test 5](testing/test5.png)
 
 ### Test 6
 
-![Test 6](images/testing/test6.png)
+![Test 6](testing/test6.png)
 
 ### Test 7
 
-![Test 7](images/testing/test7.png)
+![Test 7](testing/test7.png)
 
 ### Test 8
 
-![Test 8](images/testing/test8.png)
+![Test 8](testing/test8.png)
 
 ### Test 9
 
-![Test 9](images/testing/test9.png)
+![Test 9](testing/test9.png)
 
 ### Test 10
 
-![Test 10](images/testing/test10.png)
+![Test 10](testing/test10.png)
 
 ---
 
