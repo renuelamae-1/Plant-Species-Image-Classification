@@ -12,7 +12,7 @@ This project focuses on building an image classification model using Google Teac
 <table>
   <tr>
     <td>
-      <img src="1.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/1.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       Known for their unique slipper-shaped pouch and are popular ornamental orchids.
@@ -24,7 +24,7 @@ This project focuses on building an image classification model using Google Teac
   <table>
   <tr>
     <td>
-      <img src="2.jpg" width="220" style="border-radius: 15px;" />
+      <img src="pimages/2.jpg" width="220" style="border-radius: 15px;" />
     </td>
     <td>
       Terrestrial orchids with pouch-like flowers and are commonly found in temperate regions.
